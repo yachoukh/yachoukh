@@ -7,4 +7,5 @@
 
 ### Contact:
 [<img align="center" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yachoukh/)
+[<img align="center" alt="medium" src="https://ko-fi.com/img/githubbutton_sm.svg"/>](https://ko-fi.com/yachoukh)
 <!-- [<img align="center" alt="medium" src="https://img.shields.io/badge/Download-CV-<brightgreen>?style=for-the-badge&"/>](https://raw.githubusercontent.com/giocaizzi/CV/main/data/resume/resume.pdf) -->
